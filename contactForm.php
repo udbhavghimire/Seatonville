@@ -60,19 +60,19 @@ function sendToFollowUpBoss($data)
 $mail = new PHPMailer;
 
 $mail->isSMTP();
-$mail->Host = 'mail.windingwoods.ca';
+$mail->Host = 'mail.myseatonville.ca';
 $mail->SMTPAuth = true;
-$mail->Username = 'info@windingwoods.ca';
-$mail->Password = 'goto@windingwoods';
+$mail->Username = 'info@myseatonville.ca';
+$mail->Password = 'gotomyseatonville';
 $mail->SMTPSecure = 'tls';
 $mail->Port = 587;
 
-$mail->setFrom('info@windingwoods.ca', $_POST['name']);
+$mail->setFrom('info@myseatonville.ca', $_POST['name']);
 $mail->addAddress('contact@homebaba.ca');
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
 
-$mail->Subject = "Seaton Winding Woods Pickering - Landing Page Inquiry";
+$mail->Subject = "Seatonville Pickering - Landing Page Inquiry";
 
 // Prepare email message
 $message = "
@@ -81,7 +81,7 @@ $message = "
     Email: " . strip_tags($_POST['email']) . "<br/>
     Realtor or working with one?: " . strip_tags($_POST['realtor']) . "<br/>
     Message: " . strip_tags($_POST['message']) . "<br/>
-    Source: windingwoods.ca
+    Source: myseatonville.ca
 ";
 
 $mail->Body = $message;

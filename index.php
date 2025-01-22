@@ -22,12 +22,11 @@
     <link rel="stylesheet" href="font/verah.ttf">
 
 
-    <title>Seatonville | Fieldgate Homes - Register Today</title>
-    <meta name="title" content="Seatonville | Fieldgate Homes - Register Today">
+    <title>Seatonville - Urban Village Living in Pickering | Register Today</title>
+    <meta name="title" content="Seatonville - Urban Village Living in Pickering | Register Today">
     <meta name="description"
         content="Seatonville, a new pre-construction development by Fieldgate Homes at BROCK RD AND CONCESSION RD 5 address, ON. Offering array of distinctive 30', 35', 36' & 43' singles and freehold townhomes, this serene community blends nature with urban convenience, ideal for families and professionals.">
-    <meta name="keywords"
-        content="Seatonville, Fieldgate Homes, Townhomes in Pickering, New Homes in Pickering">
+    <meta name="keywords" content="Seatonville, Fieldgate Homes, Townhomes in Pickering, New Homes in Pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
@@ -52,14 +51,7 @@
         }
     </script>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQS5N2JGZR"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
 
-        gtag('config', 'G-YQS5N2JGZR');
-    </script>
 </head>
 
 <body>
@@ -137,16 +129,23 @@
                 About Seatonville in Pickering</h2>
             <p class=" px-2 textt center-sm">
                 <span> <a href="https://condomonk.ca/pickering/seatonville" target="_blank"
-                        class="fw-bold text-decoration-none text-dark">Seatonville by Fieldgate Homes
+                        class="fw-bold text-decoration-none text-dark">Seatonville Towns & Singles
                     </a></span>
-                    is a new townhouse and single-family home community by OPUS Homes, is currently under construction at Sideline 16 Road & 5th Concession Road in Pickering. With unit prices ranging from $959,990 to over $1,309,990, Seatonville offers a range of options to suit different preferences and budgets. The unit sizes vary from 1482 to 2283 square feet. Situated east of the West Duffins Creek, the Seaton community spans 7,900 acres and features a network of parks, trails, and open spaces, including 3,750 acres of protected agricultural lands, forests, creeks, and wetlands. Residents will enjoy easy access to amenities such as shopping, dining, farmers’ markets, and recreational facilities. Designed by one of the GTA’s finest builders, Seatonville promises to be a complete family community that prioritizes connectivity and convenience for its residents.
+                in Pickering, ON, is a master-planned community by Fieldgate Homes,
+                OPUS Homes, DECO Homes, and Arista Homes. It offers townhomes and single-family homes priced from
+                $959,990 to $1,309,990, with sizes from 1,482 to 2,283 sq. ft. Spanning 7,900 acres, including 3,750
+                acres of protected lands, parks, and trails, Seatonville provides convenient access to shopping, dining,
+                recreation, and transit, making it ideal for modern family living.
             <div class="list  textt  px-2 center-sm">
                 <p class="mybot pb-md-0 pb-0 ">
-                    Builder: Fieldgate Homes
+                    Builder: Fieldgate Homes,
+                    OPUS Homes,
+                    DECO Homes and
+                    Arista Homes
                 </p>
 
                 <p class="mybot pb-md-0 pb-0 ">
-                    Address: 1505 Alexander Knox Rd, Pickering
+                    Address: Sideline 16 Road & 5th Concession Road, Pickering
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
                     Pricing: Starting from Low $959K
@@ -176,32 +175,27 @@
                 <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 justify-content-center gy-md-4 gy-3 gx-3">
                     <div class="col">
                         <div href="#" class="afte">
-                            <img src="images/img1.webp" alt="Seatonville"
-                                class="img-fluid rounded-mine imghei" />
+                            <img src="images/img1.webp" alt="Seatonville" class="img-fluid rounded-mine imghei" />
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte">
-                            <img src="images/img2.webp" alt="Seatonville"
-                                class="img-fluid rounded-mine imghei" />
+                            <img src="images/img2.webp" alt="Seatonville" class="img-fluid rounded-mine imghei" />
                         </div>
                     </div>
                     <div class="col">
                         <div class="afte">
-                            <img src="images/img3.webp" alt="Seatonville"
-                                class="img-fluid rounded-mine imghei" />
+                            <img src="images/img3.webp" alt="Seatonville" class="img-fluid rounded-mine imghei" />
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte">
-                            <img src="images/img4.webp" alt="Seatonville"
-                                class="img-fluid rounded-mine imghei" />
+                            <img src="images/img4.webp" alt="Seatonville" class="img-fluid rounded-mine imghei" />
                         </div>
                     </div>
                     <div class="col">
                         <div href="#" class="afte">
-                            <img src="images/img5.webp" alt="Seatonville"
-                                class="img-fluid rounded-mine imghei" />
+                            <img src="images/img5.webp" alt="Seatonville" class="img-fluid rounded-mine imghei" />
                         </div>
                     </div>
                 </div>
@@ -286,14 +280,18 @@
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
                     <span class="mx-1">Seatonville - Location</span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">AT BROCK RD AND CONCESSION RD 5</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Sideline 16
+                    Road & 5th Concession Road, Pickering</span>
                 <div class="row row-cols-md-2 row-cols-1 text-center mx-2 mx-md-0">
                     <div class="bg-white p-1  rounded-mine d-flex justify-content-center col">
-                        <img src="./images/siteplan.jpeg" class="img-fluid" alt="Seatonville Sitemap">
+                        <img src="./images/map.jpg" class="img-fluid" alt="Seatonville Sitemap">
                     </div>
                     <div class="bg-white p-1 rounded-mine d-flex justify-content-center align-items-center col">
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!4v1737369894324!6m8!1m7!1sfE0e8svdDXOv7ouPDcZMIg!2m2!1d43.90220018143577!2d-79.09693342871789!3f358.7773414806341!4f-12.219123370739482!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="map-container"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2874.652225279936!2d-79.08733389999999!3d43.90446910000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d520c2a87d6f0b%3A0xef09908434b4ba32!2s5th%20Concession%20Rd%20%26%20Sideline%2016%2C%20Pickering%2C%20ON%20L1T%204W1%2C%20Canada!5e0!3m2!1sen!2sid!4v1737552356110!5m2!1sen!2sid"
+                            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                     </div>
 
@@ -344,7 +342,9 @@
                     </h3>
                     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
                         data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">Fieldgate Homes is the builder of Seatonville.
+                        <div class="accordion-body">Fieldgate Homes, OPUS Homes
+                            DECO Homes and
+                            Arista Homes are the builder of Seatonville.
                         </div>
                     </div>
                 </div>
@@ -373,22 +373,24 @@
     <section id="builder">
         <div class="pt-md-5 pt-5"></div>
 
-        <div class="pt-5">
-            <div class="d-flex justify-content-center align-items-center">
-                <img src="./images/fieldgate-logo.svg" class="img-fluid regoimg" alt="Dunsire Developments-logo">
-            </div>
-            <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
-                <span class="mx-1">About Fieldgate Homes </span>
+        <div class="pt-5 container w-50 ">
+            <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color ">
+                <span class="mx-1">Great Builders of Seatonville </span>
             </h2>
-
-            <span
-                class=" pt-3 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt px-4 ">
-                The Fieldgate name has become synonymous with excellence as we create heirloom communities and
-                residences that continue to appreciate in value over time. We strive to maintain a keen focus on the
-                contemporary needs and wants of homebuyers through consistent community engagement, influencing the
-                design of every home we build. When you own a Fieldgate home, you become much more than a community
-                member. You become part of the Fieldgate family.
-            </span>
+            <div class="logo-container d-flex justify-content-between align-items-center mt-5">
+                <div class="">
+                    <img src="./images/fieldgate.avif" class="img-fluid regoimg" alt="Fieldgate Homes logo">
+                </div>
+                <div class="">
+                    <img src="./images/deco.avif" class="img-fluid regoimg" alt="DECO Homes logo">
+                </div>
+                <div class="">
+                    <img src="./images/opus.avif" class="img-fluid regoimg" alt="OPUS Homes logo">
+                </div>
+                <div class="">
+                    <img src="./images/arista.avif" class="img-fluid regoimg" alt="Arista Homes logo">
+                </div>
+            </div>
         </div>
     </section>
 
@@ -511,10 +513,14 @@
                         <h5 class="text-dark fw-bold mt-4 mb-3">About</h5>
                         <div class="list d-block ">
                             <p class="mybot ">
-                                Builder : Fieldgate Homes
+                                Builder : Fieldgate Homes,
+                                OPUS Homes,
+                                DECO Homes and
+                                Arista Homes
                             </p>
                             <p class="mybot ">
-                                Location :1505 Alexander Knox Rd, Pickering
+                                Location :Sideline 16
+                                Road & 5th Concession Road, Pickering
                             </p>
 
                             <p class="mybot ">
@@ -526,8 +532,12 @@
                     </div>
                 </div>
 
-                <div class="col-md-2 mt-md-5 pt-md-5 mt-sm-0 pt-4 center-sm d-flex  justify-content-center d-flex">
-                    <img src="./images/fieldgate-logo.svg" class="img-fluid regoimg " alt="Dunsire Developments-logo">
+                <div class="col-md-2 mt-md-5 pt-md-5 mt-sm-0 pt-4 center-sm d-flex  justify-content-center gx-2">
+                    <img src="./images/fieldgate-logo.svg" class="footer-logo" alt="Fieldgate Homes logo">
+                    <img src="./images/deco.avif" class="footer-logo" alt="DECO Homes logo">
+                    <img src="./images/opus.avif" class="footer-logo" alt="OPUS Homes logo">
+                    <img src="./images/arista.avif" class="footer-logo" alt="Arista Homes logo">
+
                 </div>
             </div>
 

@@ -19,24 +19,14 @@
     <!-- Google tag (gtag.js) -->
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQS5N2JGZR"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
 
-        gtag('config', 'G-YQS5N2JGZR');
-    </script>
-
-    <script>
-        gtag('event', 'conversion', { 'send_to': 'AW-451416794/1EODCISPxu8BENqloNcB' });
-    </script>
 </head>
 
 <body class="bg-light">
 
     <section id="thankyou">
         <div class="text-center pt-lg-5 pt-5 pt-0">
-            <img src="../images/seaton2-logo.svg" class="thankyoulogo pb-1" alt="">
+            <img src="../images/seatonVilleLogo.svg" class="thankyoulogo pb-1" alt="">
             <div class="  text-center">
                 <div class="tick">
                     <img id="tick-gif" src="../images/tick.gif" alt="">
