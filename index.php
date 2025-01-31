@@ -25,8 +25,8 @@
     <title>Seatonville - Urban Village Living in Pickering | Register Today</title>
     <meta name="title" content="Seatonville - Urban Village Living in Pickering | Register Today">
     <meta name="description"
-        content="Seatonville, a new pre-construction development by Fieldgate Homes at BROCK RD AND CONCESSION RD 5 address, ON. Offering array of distinctive 30', 35', 36' & 43' singles and freehold townhomes, this serene community blends nature with urban convenience, ideal for families and professionals.">
-    <meta name="keywords" content="Seatonville, Fieldgate Homes, Townhomes in Pickering, New Homes in Pickering">
+        content="Seatonville, a new pre-construction development by OPUS Homes at Sideline 16 Road & 5th Concession Road, Pickering Offering array of distinctive 30', 35', 36' & 43' singles and freehold townhomes, this serene community blends nature with urban convenience, ideal for families and professionals.">
+    <meta name="keywords" content="Seatonville, OPUS Homes, Townhomes in Pickering, New Homes in Pickering">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
@@ -131,17 +131,14 @@
                 <span> <a href="https://condomonk.ca/pickering/seatonville" target="_blank"
                         class="fw-bold text-decoration-none text-dark">Seatonville Towns & Singles
                     </a></span>
-                in Pickering, ON, is a master-planned community by Fieldgate Homes,
-                OPUS Homes, DECO Homes, and Arista Homes. It offers townhomes and single-family homes priced from
+                in Pickering, ON, is a master-planned community by
+                OPUS Homes. It offers townhomes and single-family homes priced from
                 $845K, with sizes from 1,482 to 2,283 sq. ft. Spanning 7,900 acres, including 3,750
                 acres of protected lands, parks, and trails, Seatonville provides convenient access to shopping, dining,
                 recreation, and transit, making it ideal for modern family living.
-            <div class="list  textt  px-2 center-sm">
+            <div class="list  textt  px-3 px-md-0 center-sm ">
                 <p class="mybot pb-md-0 pb-0 ">
-                    Builder: Fieldgate Homes,
-                    OPUS Homes,
-                    DECO Homes and
-                    Arista Homes
+                    Builder: OPUS Homes
                 </p>
 
                 <p class="mybot pb-md-0 pb-0 ">
@@ -338,7 +335,7 @@
                     </h3>
                     <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
                         data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">The estimated occupancy for Seatonville is in 2025.
+                        <div class="accordion-body">The estimated occupancy for Seatonville is in Spring 2026.
                         </div>
                     </div>
                 </div>
@@ -354,9 +351,7 @@
                     </h3>
                     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
                         data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">Fieldgate Homes, OPUS Homes
-                            DECO Homes and
-                            Arista Homes are the builder of Seatonville.
+                        <div class="accordion-body"> OPUS Homes is the builder of Seatonville.
                         </div>
                     </div>
                 </div>
@@ -382,28 +377,26 @@
     </section>
 
 
-    <section id="builder">
-        <div class="pt-md-5 pt-5"></div>
+    <section id="builder" class="pt-5">
 
-        <div class="pt-5 container w-50 ">
-            <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color ">
-                <span class="mx-1">Great Builders of Seatonville </span>
-            </h2>
-            <div class="logo-container d-flex justify-content-between align-items-center mt-5">
-                <div class="">
-                    <img src="./images/fieldgate.avif" class="img-fluid regoimg" alt="Fieldgate Homes logo">
-                </div>
-                <div class="">
-                    <img src="./images/deco.avif" class="img-fluid regoimg" alt="DECO Homes logo">
-                </div>
-                <div class="">
-                    <img src="./images/opus.avif" class="img-fluid regoimg" alt="OPUS Homes logo">
-                </div>
-                <div class="">
-                    <img src="./images/arista.avif" class="img-fluid regoimg" alt="Arista Homes logo">
-                </div>
+        <div class="pt-5">
+            <div class="d-flex justify-content-center align-items-center">
+                <img src="./images/opus.png" class="img-fluid regoimg" alt="OPUS Homes logo">
             </div>
+            <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color pt-4">
+                <span class="mx-1">About Opus Homes </span>
+            </h2>
+
+            <span
+                class=" pt-4 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt px-4 ">
+                OPUS Homes is a premier home builder dedicated to crafting thoughtfully designed communities with
+                distinctive architectural styles. Every home reflects a cohesive theme, featuring high-quality
+                materials, innovative layouts, and signature design elements that enhance both aesthetics and
+                functionality. With a focus on maximizing living space and lifestyle, OPUS Homes ensures that each
+                residence is built with precision, creativity, and a commitment to excellence.
+            </span>
         </div>
+
     </section>
 
 
@@ -525,10 +518,8 @@
                         <h5 class="text-dark fw-bold mt-4 mb-3">About</h5>
                         <div class="list d-block ">
                             <p class="mybot ">
-                                Builder : Fieldgate Homes,
-                                OPUS Homes,
-                                DECO Homes and
-                                Arista Homes
+                                Builder : OPUS Homes
+
                             </p>
                             <p class="mybot ">
                                 Location :Sideline 16
@@ -545,10 +536,8 @@
                 </div>
 
                 <div class="col-md-2 mt-md-5 pt-md-5 mt-sm-0 pt-4 center-sm d-flex  justify-content-center gx-2">
-                    <img src="./images/fieldgate-logo.svg" class="footer-logo" alt="Fieldgate Homes logo">
-                    <img src="./images/deco.avif" class="footer-logo" alt="DECO Homes logo">
-                    <img src="./images/opus.avif" class="footer-logo" alt="OPUS Homes logo">
-                    <img src="./images/arista.avif" class="footer-logo" alt="Arista Homes logo">
+                    <img src="./images/opus.png" class="footer-logo" alt="OPUS Homes logo">
+
 
                 </div>
             </div>
