@@ -111,7 +111,7 @@
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center fw-bold" data-aos="fade-up"
                         data-aos-duration="2000" data-aos-delay="50"> Starting from Low
-                        $959K
+                        $845K
                     </p>
 
                     <a href="#Contact"
@@ -133,7 +133,7 @@
                     </a></span>
                 in Pickering, ON, is a master-planned community by Fieldgate Homes,
                 OPUS Homes, DECO Homes, and Arista Homes. It offers townhomes and single-family homes priced from
-                $959,990 to $1,309,990, with sizes from 1,482 to 2,283 sq. ft. Spanning 7,900 acres, including 3,750
+                $845K, with sizes from 1,482 to 2,283 sq. ft. Spanning 7,900 acres, including 3,750
                 acres of protected lands, parks, and trails, Seatonville provides convenient access to shopping, dining,
                 recreation, and transit, making it ideal for modern family living.
             <div class="list  textt  px-2 center-sm">
@@ -148,10 +148,10 @@
                     Address: Sideline 16 Road & 5th Concession Road, Pickering
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
-                    Pricing: Starting from Low $959K
+                    Pricing: Starting from Low $845K
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
-                    Occupancy: Estimated 2025
+                    Occupancy: Spring 2026
                 </p>
 
             </div>
@@ -245,7 +245,7 @@
     </section>
 
     <div class="pt-5"></div>
-    <section class="py-md-5 py-4">
+    <!-- <section class="py-md-5 py-4">
         <div class="container pt-md-5 pt-5">
             <h2 class="fw-bold fs-1 mb-4 text-center justify-content-center brand-color">
                 Checkout Videos What People Say About Pickering
@@ -267,6 +267,18 @@
                             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section> -->
+
+    <section class="py-md-5 py-4">
+        <div class="container pt-md-5 pt-5">
+            <h2 class="fw-bold fs-1 mb-4 text-center justify-content-center brand-color">
+                Checkout the community siteplan of Seatonville
+            </h2>
+
+            <div class="">
+                <img src="images/siteplan_page.jpg" class="img-fluid" alt="">
             </div>
         </div>
     </section>

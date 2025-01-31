@@ -26,9 +26,9 @@ function sendToFollowUpBoss($data)
             'phones' => array(
                 array('value' => $data['phone'])
             ),
-            'tags' => array('Seaton Winding Woods', 'Pickering')
+            'tags' => array('Seatonville', 'Pickering')
         ),
-        'source' => 'windingwoods.ca',
+        'source' => 'myseatonville.ca',
         'system' => 'Custom Website',
         'type' => 'Inquiry',
         'message' => $data['message']
